@@ -6,12 +6,13 @@ pre code.hljs {
   word-wrap: break-word;
 }
 
-pre code {
-  width: 100%;
-}
 
 code.hljs {
   padding: 3px 5px
+}
+
+.code {
+  width: 100%;
 }
 
 /*!
